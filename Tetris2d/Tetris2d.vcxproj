@@ -113,6 +113,11 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Downloads\Games16\01 Tetris\images\background.png" />
+    <Image Include="..\..\..\..\Downloads\Games16\01 Tetris\images\frame.png" />
+    <Image Include="..\..\..\..\Downloads\Games16\01 Tetris\images\tiles.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
